@@ -1,1 +1,2 @@
 # GitPractice
+Hypothetical scenario
